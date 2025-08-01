@@ -1,0 +1,36 @@
+# Xcode
+*.xcworkspace
+!default.xcworkspace
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.idea/
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# User-specific files
+*.moved-aside
+*.swp
+*.DS_Store
+*.orig
+
+# Logs
+*.log
+
+# Build
+build/
+Build/
+
+# Firebase / GoogleService files (if you want to keep them local)
+# GoogleService-Info.plist
+
